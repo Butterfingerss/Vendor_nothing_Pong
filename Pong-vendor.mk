@@ -1520,6 +1520,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.bluetooth_sar@1.1 \
     vendor.qti.hardware.cacert@1.0 \
     vendor.qti.hardware.camera.aon@1.0-service-impl \
+    vendor.qti.hardware.camera.postproc@1.0-nothing \
     vendor.qti.hardware.camera.postproc@1.0-service-impl \
     vendor.qti.hardware.data.cne.internal.api@1.0 \
     vendor.qti.hardware.data.cne.internal.constants@1.0 \
