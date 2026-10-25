@@ -400,7 +400,7 @@
         <ImageEncoding quality="95" />
         <ImageEncoding quality="95" />
         <ImageEncoding quality="90" />
-        <ImageDecoding memCap="20000000" />
+        <ImageDecoding memCap="100000000" />
 
     </CamcorderProfiles>
     <!-- Front Camera -->
@@ -654,7 +654,7 @@
         <ImageEncoding quality="95" />
         <ImageEncoding quality="95" />
         <ImageEncoding quality="90" />
-        <ImageDecoding memCap="20000000" />
+        <ImageDecoding memCap="100000000" />
 
     </CamcorderProfiles>
     <!-- Camera ID 2 -->
@@ -1014,7 +1014,7 @@
         <ImageEncoding quality="95" />
         <ImageEncoding quality="95" />
         <ImageEncoding quality="90" />
-        <ImageDecoding memCap="20000000" />
+        <ImageDecoding memCap="100000000" />
 
     </CamcorderProfiles>
 
@@ -1400,7 +1400,7 @@
         <ImageEncoding quality="95" />
         <ImageEncoding quality="95" />
         <ImageEncoding quality="90" />
-        <ImageDecoding memCap="20000000" />
+        <ImageDecoding memCap="100000000" />
 
     </CamcorderProfiles>
 
@@ -1704,7 +1704,7 @@
         <ImageEncoding quality="95" />
         <ImageEncoding quality="95" />
         <ImageEncoding quality="90" />
-        <ImageDecoding memCap="20000000" />
+        <ImageDecoding memCap="100000000" />
 
     </CamcorderProfiles>
 

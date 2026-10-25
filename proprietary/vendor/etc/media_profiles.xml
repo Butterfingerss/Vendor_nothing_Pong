@@ -378,7 +378,7 @@
         <ImageEncoding quality="95" />
         <ImageEncoding quality="95" />
         <ImageEncoding quality="90" />
-        <ImageDecoding memCap="20000000" />
+        <ImageDecoding memCap="100000000" />
 
     </CamcorderProfiles>
 
@@ -582,7 +582,7 @@
         <ImageEncoding quality="95" />
         <ImageEncoding quality="95" />
         <ImageEncoding quality="90" />
-        <ImageDecoding memCap="20000000" />
+        <ImageDecoding memCap="100000000" />
 
     </CamcorderProfiles>
     <CamcorderProfiles cameraId="2">
@@ -715,7 +715,7 @@
         <ImageEncoding quality="95" />
         <ImageEncoding quality="95" />
         <ImageEncoding quality="90" />
-        <ImageDecoding memCap="20000000" />
+        <ImageDecoding memCap="100000000" />
 
     </CamcorderProfiles>
 
@@ -824,7 +824,7 @@
         <ImageEncoding quality="95" />
         <ImageEncoding quality="95" />
         <ImageEncoding quality="90" />
-        <ImageDecoding memCap="20000000" />
+        <ImageDecoding memCap="100000000" />
 
     </CamcorderProfiles>
     <CamcorderProfiles cameraId="4">
@@ -957,7 +957,7 @@
         <ImageEncoding quality="95" />
         <ImageEncoding quality="95" />
         <ImageEncoding quality="90" />
-        <ImageDecoding memCap="20000000" />
+        <ImageDecoding memCap="100000000" />
 
     </CamcorderProfiles>
 
@@ -1066,7 +1066,7 @@
         <ImageEncoding quality="95" />
         <ImageEncoding quality="95" />
         <ImageEncoding quality="90" />
-        <ImageDecoding memCap="20000000" />
+        <ImageDecoding memCap="100000000" />
 
     </CamcorderProfiles>
 

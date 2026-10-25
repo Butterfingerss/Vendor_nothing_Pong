@@ -279,7 +279,7 @@
         <ImageEncoding quality="95" />
         <ImageEncoding quality="95" />
         <ImageEncoding quality="90" />
-        <ImageDecoding memCap="67108864" />
+        <ImageDecoding memCap="100000000" />
     </CamcorderProfiles>
 
     <!-- Front Camera -->
@@ -448,7 +448,7 @@
         <ImageEncoding quality="95" />
         <ImageEncoding quality="95" />
         <ImageEncoding quality="90" />
-        <ImageDecoding memCap="67108864" />
+        <ImageDecoding memCap="100000000" />
     </CamcorderProfiles>
 
 
